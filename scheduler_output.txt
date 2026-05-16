@@ -1,0 +1,152 @@
+--- Depot ID: 1 (Max Hours: 60) ---
+Total Impact Score: 117
+Selected Tasks:
+  - Task ID: v27, Duration: 5, Impact: 8
+  - Task ID: v26, Duration: 1, Impact: 8
+  - Task ID: v25, Duration: 7, Impact: 10
+  - Task ID: v21, Duration: 3, Impact: 10
+  - Task ID: v20, Duration: 2, Impact: 5
+  - Task ID: v19, Duration: 2, Impact: 3
+  - Task ID: v18, Duration: 2, Impact: 9
+  - Task ID: v15, Duration: 5, Impact: 7
+  - Task ID: v14, Duration: 2, Impact: 5
+  - Task ID: v13, Duration: 6, Impact: 9
+  - Task ID: v12, Duration: 1, Impact: 5
+  - Task ID: v10, Duration: 6, Impact: 6
+  - Task ID: v9, Duration: 6, Impact: 10
+  - Task ID: v8, Duration: 5, Impact: 9
+  - Task ID: v4, Duration: 5, Impact: 5
+  - Task ID: v3, Duration: 1, Impact: 3
+  - Task ID: v1, Duration: 1, Impact: 5
+
+
+--- Depot ID: 2 (Max Hours: 135) ---
+Total Impact Score: 169
+Selected Tasks:
+  - Task ID: v29, Duration: 7, Impact: 8
+  - Task ID: v28, Duration: 8, Impact: 8
+  - Task ID: v27, Duration: 5, Impact: 8
+  - Task ID: v26, Duration: 1, Impact: 8
+  - Task ID: v25, Duration: 7, Impact: 10
+  - Task ID: v24, Duration: 8, Impact: 5
+  - Task ID: v23, Duration: 8, Impact: 8
+  - Task ID: v22, Duration: 5, Impact: 5
+  - Task ID: v21, Duration: 3, Impact: 10
+  - Task ID: v20, Duration: 2, Impact: 5
+  - Task ID: v19, Duration: 2, Impact: 3
+  - Task ID: v18, Duration: 2, Impact: 9
+  - Task ID: v17, Duration: 8, Impact: 7
+  - Task ID: v16, Duration: 1, Impact: 1
+  - Task ID: v15, Duration: 5, Impact: 7
+  - Task ID: v14, Duration: 2, Impact: 5
+  - Task ID: v13, Duration: 6, Impact: 9
+  - Task ID: v12, Duration: 1, Impact: 5
+  - Task ID: v11, Duration: 6, Impact: 1
+  - Task ID: v10, Duration: 6, Impact: 6
+  - Task ID: v9, Duration: 6, Impact: 10
+  - Task ID: v8, Duration: 5, Impact: 9
+  - Task ID: v7, Duration: 5, Impact: 1
+  - Task ID: v6, Duration: 6, Impact: 3
+  - Task ID: v5, Duration: 7, Impact: 3
+  - Task ID: v4, Duration: 5, Impact: 5
+  - Task ID: v3, Duration: 1, Impact: 3
+  - Task ID: v2, Duration: 6, Impact: 2
+  - Task ID: v1, Duration: 1, Impact: 5
+
+
+--- Depot ID: 3 (Max Hours: 188) ---
+Total Impact Score: 169
+Selected Tasks:
+  - Task ID: v29, Duration: 7, Impact: 8
+  - Task ID: v28, Duration: 8, Impact: 8
+  - Task ID: v27, Duration: 5, Impact: 8
+  - Task ID: v26, Duration: 1, Impact: 8
+  - Task ID: v25, Duration: 7, Impact: 10
+  - Task ID: v24, Duration: 8, Impact: 5
+  - Task ID: v23, Duration: 8, Impact: 8
+  - Task ID: v22, Duration: 5, Impact: 5
+  - Task ID: v21, Duration: 3, Impact: 10
+  - Task ID: v20, Duration: 2, Impact: 5
+  - Task ID: v19, Duration: 2, Impact: 3
+  - Task ID: v18, Duration: 2, Impact: 9
+  - Task ID: v17, Duration: 8, Impact: 7
+  - Task ID: v16, Duration: 1, Impact: 1
+  - Task ID: v15, Duration: 5, Impact: 7
+  - Task ID: v14, Duration: 2, Impact: 5
+  - Task ID: v13, Duration: 6, Impact: 9
+  - Task ID: v12, Duration: 1, Impact: 5
+  - Task ID: v11, Duration: 6, Impact: 1
+  - Task ID: v10, Duration: 6, Impact: 6
+  - Task ID: v9, Duration: 6, Impact: 10
+  - Task ID: v8, Duration: 5, Impact: 9
+  - Task ID: v7, Duration: 5, Impact: 1
+  - Task ID: v6, Duration: 6, Impact: 3
+  - Task ID: v5, Duration: 7, Impact: 3
+  - Task ID: v4, Duration: 5, Impact: 5
+  - Task ID: v3, Duration: 1, Impact: 3
+  - Task ID: v2, Duration: 6, Impact: 2
+  - Task ID: v1, Duration: 1, Impact: 5
+
+
+--- Depot ID: 4 (Max Hours: 97) ---
+Total Impact Score: 154
+Selected Tasks:
+  - Task ID: v29, Duration: 7, Impact: 8
+  - Task ID: v28, Duration: 8, Impact: 8
+  - Task ID: v27, Duration: 5, Impact: 8
+  - Task ID: v26, Duration: 1, Impact: 8
+  - Task ID: v25, Duration: 7, Impact: 10
+  - Task ID: v23, Duration: 8, Impact: 8
+  - Task ID: v22, Duration: 5, Impact: 5
+  - Task ID: v21, Duration: 3, Impact: 10
+  - Task ID: v20, Duration: 2, Impact: 5
+  - Task ID: v19, Duration: 2, Impact: 3
+  - Task ID: v18, Duration: 2, Impact: 9
+  - Task ID: v17, Duration: 8, Impact: 7
+  - Task ID: v16, Duration: 1, Impact: 1
+  - Task ID: v15, Duration: 5, Impact: 7
+  - Task ID: v14, Duration: 2, Impact: 5
+  - Task ID: v13, Duration: 6, Impact: 9
+  - Task ID: v12, Duration: 1, Impact: 5
+  - Task ID: v10, Duration: 6, Impact: 6
+  - Task ID: v9, Duration: 6, Impact: 10
+  - Task ID: v8, Duration: 5, Impact: 9
+  - Task ID: v4, Duration: 5, Impact: 5
+  - Task ID: v3, Duration: 1, Impact: 3
+  - Task ID: v1, Duration: 1, Impact: 5
+
+
+--- Depot ID: 5 (Max Hours: 164) ---
+Total Impact Score: 169
+Selected Tasks:
+  - Task ID: v29, Duration: 7, Impact: 8
+  - Task ID: v28, Duration: 8, Impact: 8
+  - Task ID: v27, Duration: 5, Impact: 8
+  - Task ID: v26, Duration: 1, Impact: 8
+  - Task ID: v25, Duration: 7, Impact: 10
+  - Task ID: v24, Duration: 8, Impact: 5
+  - Task ID: v23, Duration: 8, Impact: 8
+  - Task ID: v22, Duration: 5, Impact: 5
+  - Task ID: v21, Duration: 3, Impact: 10
+  - Task ID: v20, Duration: 2, Impact: 5
+  - Task ID: v19, Duration: 2, Impact: 3
+  - Task ID: v18, Duration: 2, Impact: 9
+  - Task ID: v17, Duration: 8, Impact: 7
+  - Task ID: v16, Duration: 1, Impact: 1
+  - Task ID: v15, Duration: 5, Impact: 7
+  - Task ID: v14, Duration: 2, Impact: 5
+  - Task ID: v13, Duration: 6, Impact: 9
+  - Task ID: v12, Duration: 1, Impact: 5
+  - Task ID: v11, Duration: 6, Impact: 1
+  - Task ID: v10, Duration: 6, Impact: 6
+  - Task ID: v9, Duration: 6, Impact: 10
+  - Task ID: v8, Duration: 5, Impact: 9
+  - Task ID: v7, Duration: 5, Impact: 1
+  - Task ID: v6, Duration: 6, Impact: 3
+  - Task ID: v5, Duration: 7, Impact: 3
+  - Task ID: v4, Duration: 5, Impact: 5
+  - Task ID: v3, Duration: 1, Impact: 3
+  - Task ID: v2, Duration: 6, Impact: 2
+  - Task ID: v1, Duration: 1, Impact: 5
+
+
